@@ -1,0 +1,4 @@
+# Starting compiling Assembly-CSharp.dll
+D:\Unity\Projects\2020.3.21f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-9bc6abd25d7a99540a6b66652240addd
+# Starting IL post processing on Assembly-CSharp.dll
+D:/Unity/Projects/2020.3.21f1/Editor/Data/MonoBleedingEdge/bin/mono.exe D:/Unity/Projects/2020.3.21f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe @D:/weirdsho/weirdsho/Temp/UnityTempFile-c3798b89d886ff4489312695007aafad
